@@ -8,7 +8,7 @@
 
 All core snare synthesis architecture and original sample banks belong to **@a200xeaf (@000formforum)**. This experimental edition expands upon it with autonomous rhythm generation, 40 custom WAV audio slices, and enhanced variation and chaos effects.
 
-所有核心小鼓合成架構與原始取樣庫皆源自 **@a200xeaf (@000formforum)** 的 **SNARE GEN**。本實驗改編版於其基礎上擴充了節奏生成及加入了40個WAV音訊切片，並在變化及混亂上的效果有所增強。
+所有核心小鼓合成架構與原始取樣庫皆源自 **@a200xeaf (@000formforum)** 的 **SNARE GEN**。本實驗改編版於其基礎上擴充了節奏生成及加入了40個WAV音訊切片，並在變化及混亂的效果上有所增強。
 
 ---
 
